@@ -1,0 +1,21 @@
+.projects-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #f77f00;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.projects-list {
+  list-style: none;
+  font-size: 1.5rem;
+  padding-left: 0;
+  margin: 0;
+  margin-top: 2vh;
+}
+
+.projects-list li {
+  padding: 0.2vw;
+  cursor: pointer;
+}
